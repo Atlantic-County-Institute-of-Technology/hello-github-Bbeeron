@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: Byron Manuel
 
 ## 🤓 Course overview and learning outcomes 
 
